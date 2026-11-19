@@ -4,7 +4,9 @@ An interactive Streamlit app that prices European and American options with thre
 verifies the Greeks, extracts implied volatility from **live option chains**, builds option strategies and
 tests put-call parity on real market data.
 
-**Live demo:** _add your Streamlit Community Cloud URL here_
+**Live demo:** https://options-pricing-greeks-lab.streamlit.app &nbsp;·&nbsp; **Code:** https://github.com/Dhruvjn007/options-pricing-greeks-lab
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://options-pricing-greeks-lab.streamlit.app)
 
 ![Pricing tab](docs/screenshots/01_pricing.png)
 
